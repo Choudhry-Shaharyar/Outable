@@ -18,7 +18,7 @@ COVID-19 has been the reason for multiple changes and regulations in Ontario. Re
 - Express.js
 - Google REST API (Google Places API)
 - HTML and CSS
-- Heroku
+- Heroku and Netlify
 - Axios
 - Visual Studio Code
 - HTTP (Hypertext Transfer Protocol)
